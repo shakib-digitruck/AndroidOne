@@ -1,78 +1,83 @@
 {
-	"orders":[
-		{
-			"id": 1,
-			"number": "12553214",
-			"date": "31 Nov 2019", 
-			"time": "12:00 PM", 
-			"pickUpAddress": "Mirpur DOSH, Dhaka", 
-			"dropOffAddress": "Vatara, Chittagong Port",
-			"productInfo": "Fish Food, 150000 kg.",
-			"vehicleList": [
-				{"id": 1, "name": "Pickup", "details": "5ton", "count": 5},
-				{"id": 2, "name": "Mini Truck", "details": "10ton", "count": 10},
-				{"id": 3, "name": "Truck", "details": "30ton", "count": 1}				
-			]
-		},
-		{
-			"id": 2,
-			"number": "12553215",
-			"date": "31 Nov 2019", 
-			"time": "12:00 PM", 
-			"pickUpAddress": "Mirpur DOSH, Dhaka", 
-			"dropOffAddress": "Vatara, Chittagong Port",
-			"productInfo": "Fish foods, 150000 kg.",
-			"vehicleList": [
-				{"id": 1, "name": "Pickup 5ton", "details": "5ton", "count": 5},
-				{"id": 2, "name": "Mini Truck 10ton", "details": "10ton", "count": 10},
-				{"id": 3, "name": "Truck 30ton", "details": "30ton", "count": 10}
-				
-			]
-		},
-		{
-			"id": 3,
-			"number": "12553216",
-			"date": "31 Nov 2019", 
-			"time": "12:00 PM", 
-			"pickUpAddress": "Mirpur DOSH, Dhaka", 
-			"dropOffAddress": "Vatara, Chittagong Port",
-			"productInfo": "Fish Food, 150000 kg.",
-			"vehicleList": [
-				{"id": 1, "name": "Pickup", "details": "5ton", "count": 5},
-				{"id": 2, "name": "Mini Truck", "details": "10ton", "count": 1},
-				{"id": 3, "name": "Truck", "details": "30ton", "count": 1}
-				
-			]
-		},
-		{
-			"id": 4,
-			"number": "12553217",
-			"date": "31 Nov 2019", 
-			"time": "12:00 PM", 
-			"pickUpAddress": "Mirpur DOSH, Dhaka", 
-			"dropOffAddress": "Vatara, Chittagong Port",
-			"productInfo": "Fish Food, 150000 kg.",
-			"vehicleList": [
-				{"id": 1, "name": "Pickup", "details": "5ton", "count": 5},
-				{"id": 2, "name": "Mini Truck", "details": "10ton", "count": 5},
-				{"id": 3, "name": "Truck", "details": "30ton", "count": 5}
-				
-			]
-		},
-		{
-			"id": 5,
-			"number": "12553218",
-			"date": "31 Nov 2019", 
-			"time": "12:00 PM", 
-			"pickUpAddress": "Mirpur DOSH, Dhaka", 
-			"dropOffAddress": "Vatara, Chittagong Port",
-			"productInfo": "Fish Food, 150000 kg.",
-			"vehicleList": [
-				{"id": 1, "name": "Pickup", "details": "5ton", "count": 5},
-				{"id": 2, "name": "Mini Truck", "details": "10ton", "count": 5},
-				{"id": 3, "name": "Truck", "details": "30ton", "count": 5}
-				
-			]
-		}
-	]
+	"orders":[{
+    "id": 157010001,
+    "pickupAddress": "Mirpur DOHS, Dhaka",
+    "dropoffAddress": "Vatara, Chittagong Port",
+    "postDate": "31 Nov",
+    "postTime": "12:30 PM",
+    "numberOfTruckNeeded": 25,
+    "submitted": false,
+    "accepted": false,
+    "tripsRunning": false
+}, {
+    "id": 157010002,
+    "pickupAddress": "Mohakhali, Dhaka",
+    "dropoffAddress": "GEC Mor, Chittagong",
+    "postDate": "31 Nov",
+    "postTime": "12:30 PM",
+    "numberOfTruckNeeded": 25,
+    "submitted": false,
+    "accepted": false,
+    "tripsRunning": true
+}, {
+    "id": 157010003,
+    "pickupAddress": "Nakhalpara, Dhaka",
+    "dropoffAddress": "Halishohor, Chittagong",
+    "postDate": "31 Nov",
+    "postTime": "12:30 PM",
+    "numberOfTruckNeeded": 25,
+    "submitted": false,
+    "accepted": true,
+    "tripsRunning": false
+}, {
+    "id": 157010004,
+    "pickupAddress": "Pahartali, Chittagong",
+    "dropoffAddress": "Chawkbazar, Dhaka",
+    "postDate": "31 Nov",
+    "postTime": "12:30 PM",
+    "numberOfTruckNeeded": 25,
+    "submitted": false,
+    "accepted": true,
+    "tripsRunning": true
+}, {
+    "id": 157010005,
+    "pickupAddress": "Motijhil, Dhaka",
+    "dropoffAddress": "Vatara, Chittagong Port",
+    "postDate": "31 Nov",
+    "postTime": "12:30 PM",
+    "numberOfTruckNeeded": 25,
+    "submitted": true,
+    "accepted": false,
+    "tripsRunning": false
+}, {
+    "id": 157010006,
+    "pickupAddress": "Farmgate, Dhaka",
+    "dropoffAddress": "New Market, Chittagong",
+    "postDate": "31 Nov",
+    "postTime": "12:30 PM",
+    "numberOfTruckNeeded": 25,
+    "submitted": true,
+    "accepted": false,
+    "tripsRunning": true
+}, {
+    "id": 157010007,
+    "pickupAddress": "Mirpur DOHS, Dhaka",
+    "dropoffAddress": "Vatara, Chittagong Port",
+    "postDate": "31 Nov",
+    "postTime": "12:30 PM",
+    "numberOfTruckNeeded": 25,
+    "submitted": true,
+    "accepted": true,
+    "tripsRunning": false
+}, {
+    "id": 157010008,
+    "pickupAddress": "Mirpur DOHS, Dhaka",
+    "dropoffAddress": "Vatara, Chittagong Port",
+    "postDate": "31 Nov",
+    "postTime": "12:30 PM",
+    "numberOfTruckNeeded": 25,
+    "submitted": true,
+    "accepted": true,
+    "tripsRunning": true
+}]
 }
