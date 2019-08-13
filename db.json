@@ -48,34 +48,4 @@
     "submitted": true,
     "accepted": false,
     "tripsRunning": false
-}, {
-    "id": 157010006,
-    "pickupAddress": "Farmgate, Dhaka",
-    "dropoffAddress": "New Market, Chittagong",
-    "postDate": "31 Nov",
-    "postTime": "12:30 PM",
-    "numberOfTruckNeeded": 25,
-    "submitted": true,
-    "accepted": false,
-    "tripsRunning": true
-}, {
-    "id": 157010007,
-    "pickupAddress": "Mirpur DOHS, Dhaka",
-    "dropoffAddress": "Vatara, Chittagong Port",
-    "postDate": "31 Nov",
-    "postTime": "12:30 PM",
-    "numberOfTruckNeeded": 25,
-    "submitted": true,
-    "accepted": true,
-    "tripsRunning": false
-}, {
-    "id": 157010008,
-    "pickupAddress": "Mirpur DOHS, Dhaka",
-    "dropoffAddress": "Vatara, Chittagong Port",
-    "postDate": "31 Nov",
-    "postTime": "12:30 PM",
-    "numberOfTruckNeeded": 25,
-    "submitted": true,
-    "accepted": true,
-    "tripsRunning": true
 }]
