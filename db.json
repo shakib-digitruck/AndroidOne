@@ -8,7 +8,8 @@
         "numberOfTruckNeeded": 25,
         "submitted": false,
         "accepted": false,
-        "tripsRunning": false
+        "tripsRunning": false,
+        "cost": "50,000 BDT"
     }, {
         "id": 157010002,
         "pickupAddress": "Mohakhali, Dhaka",
@@ -18,7 +19,8 @@
         "numberOfTruckNeeded": 25,
         "submitted": false,
         "accepted": false,
-        "tripsRunning": true
+        "tripsRunning": true,
+        "cost": "25,000 BDT"
     }, {
         "id": 157010003,
         "pickupAddress": "Nakhalpara, Dhaka",
@@ -28,7 +30,8 @@
         "numberOfTruckNeeded": 25,
         "submitted": false,
         "accepted": true,
-        "tripsRunning": false
+        "tripsRunning": false,
+        "cost": "50,000 BDT"
     }, {
         "id": 157010004,
         "pickupAddress": "Pahartali, Chittagong",
@@ -38,7 +41,8 @@
         "numberOfTruckNeeded": 25,
         "submitted": false,
         "accepted": true,
-        "tripsRunning": true
+        "tripsRunning": true,
+        "cost": "25,000 BDT"
     }, {
         "id": 157010005,
         "pickupAddress": "Motijhil, Dhaka",
@@ -48,7 +52,8 @@
         "numberOfTruckNeeded": 25,
         "submitted": true,
         "accepted": false,
-        "tripsRunning": false
+        "tripsRunning": false,
+        "cost": "50,000 BDT"
     }, {
         "id": 157010006,
         "pickupAddress": "Farmgate, Dhaka",
@@ -58,7 +63,8 @@
         "numberOfTruckNeeded": 25,
         "submitted": true,
         "accepted": false,
-        "tripsRunning": true
+        "tripsRunning": true,
+        "cost": "25,000 BDT"
     }, {
         "id": 157010007,
         "pickupAddress": "Mirpur DOHS, Dhaka",
@@ -68,7 +74,8 @@
         "numberOfTruckNeeded": 25,
         "submitted": true,
         "accepted": true,
-        "tripsRunning": false
+        "tripsRunning": false,
+        "cost": "50,000 BDT"
     }, {
         "id": 157010008,
         "pickupAddress": "Mirpur DOHS, Dhaka",
@@ -78,6 +85,7 @@
         "numberOfTruckNeeded": 25,
         "submitted": true,
         "accepted": true,
-        "tripsRunning": true
+        "tripsRunning": true,
+        "cost": "25,000 BDT"
     }]
 }
