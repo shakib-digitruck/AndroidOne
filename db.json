@@ -9,7 +9,7 @@
         "submitted": false,
         "accepted": false,
         "tripsRunning": false,
-        "cost": "50,000 BDT"
+        "cost": "50,000"
     }, {
         "id": 157010002,
         "pickupAddress": "Mohakhali, Dhaka",
@@ -20,7 +20,7 @@
         "submitted": false,
         "accepted": false,
         "tripsRunning": true,
-        "cost": "25,000 BDT"
+        "cost": "25,000"
     }, {
         "id": 157010003,
         "pickupAddress": "Nakhalpara, Dhaka",
@@ -31,7 +31,7 @@
         "submitted": false,
         "accepted": true,
         "tripsRunning": false,
-        "cost": "50,000 BDT"
+        "cost": "50,000"
     }, {
         "id": 157010004,
         "pickupAddress": "Pahartali, Chittagong",
@@ -42,7 +42,7 @@
         "submitted": false,
         "accepted": true,
         "tripsRunning": true,
-        "cost": "25,000 BDT"
+        "cost": "25,000"
     }, {
         "id": 157010005,
         "pickupAddress": "Motijhil, Dhaka",
@@ -53,7 +53,7 @@
         "submitted": true,
         "accepted": false,
         "tripsRunning": false,
-        "cost": "50,000 BDT"
+        "cost": "50,000"
     }, {
         "id": 157010006,
         "pickupAddress": "Farmgate, Dhaka",
@@ -64,7 +64,7 @@
         "submitted": true,
         "accepted": false,
         "tripsRunning": true,
-        "cost": "25,000 BDT"
+        "cost": "25,000"
     }, {
         "id": 157010007,
         "pickupAddress": "Mirpur DOHS, Dhaka",
@@ -75,7 +75,7 @@
         "submitted": true,
         "accepted": true,
         "tripsRunning": false,
-        "cost": "50,000 BDT"
+        "cost": "50,000"
     }, {
         "id": 157010008,
         "pickupAddress": "Mirpur DOHS, Dhaka",
@@ -86,6 +86,6 @@
         "submitted": true,
         "accepted": true,
         "tripsRunning": true,
-        "cost": "25,000 BDT"
+        "cost": "25,000"
     }]
 }
